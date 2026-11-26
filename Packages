@@ -1,0 +1,14 @@
+Package: ovms-fake-plugin
+Version: 1.0.0
+Architecture: amd64
+Maintainer: OVMS Test <test@example.com>
+Installed-Size: 1
+Filename: pool/ovms-fake-plugin_1.0.0_amd64.deb
+Size: 856
+MD5sum: 50c4ea7d46c4f8f6cb14092d00532f7e
+SHA1: b173789e3ae83e493f2435d7964c6997561c5e25
+SHA256: eaa63a0baa316a125795643b2571254d9459ad784a270a6ddfa51347bc3b5b88
+Section: misc
+Priority: optional
+Description: Fake OVMS plugin package for testing apt repo & upgrades
+
